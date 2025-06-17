@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: Getting Things Done
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: getting things done seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: getting_things_done
   webhooks/outgoing/endpoints:
     fields:
       api_version:
